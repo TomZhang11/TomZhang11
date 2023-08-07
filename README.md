@@ -5,7 +5,7 @@
     <a href="https://github.com/TomZhang11/Profile"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/TomZhang11/Profile/stargazers"><img src="https://img.shields.io/github/stars/TomZhang11/Profile.svg?logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=TomZhang11.Profile" alt="visitors"/>   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=TomZhang11.Profile" alt="visitors"/>
 </p>
 
 <!--   my-header-img -->
@@ -14,7 +14,7 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Tom+Zhang;+Welcome+to+My+Profile!;Over+1+year+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast)](https://git.io/typing-svg)
 
 
 <!--   my-kaggle     
