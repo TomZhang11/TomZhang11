@@ -130,14 +130,14 @@ counting of visitors to this page in this section started from Aug 7, 2023
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=BEPb/BEPb&type=Date)](https://star-history.com/#BEPb/BEPb&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=TomZhang11/Profile&type=Date)](https://star-history.com/#TomZhang11/Profile&Date)
 
 
 
 ### Profile Views
-counting of visitors to this page in this section started from June 12, 2022
+counting of visitors to this page in this section started from Auguest 7, 2023
 
-![](https://count.getloli.com/get/@BEPb.github.readme)
+![](https://count.getloli.com/get/@TomZhang11.github.readme)
 </br>
 
 [MIT](LICENSE)
@@ -152,8 +152,5 @@ Would you ike to meet me?
 
 If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
 
----
-  *I use an automatic subscription control system. Thus, everyone who subscribes to me, I will subscribe to those and I will respond, and vice versa, I will remove all those who unsubscribe from me from among those who should be followed.* 
----
 
 ![](assets/Bottom_down.svg)
