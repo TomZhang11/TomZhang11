@@ -123,7 +123,7 @@ graph TD;
 #### Thanks for visiting :heart:
 
 <p align="center"> 
-<img src="https://TomZhang11-counter.glitch.me/TomZhang11/count.svg">  
+<img src="https://profile-counter.glitch.me/TomZhang11/count.svg">  
 
 counting of visitors to this page in this section started from Aug 7, 2023
 
