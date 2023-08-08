@@ -73,9 +73,7 @@ graph TD;
  
 
 
-<div align="center">
-<summary>Trophy: Hackerrank Profile Trophy</summary>
-</div>
+
 
 
 
@@ -102,8 +100,8 @@ graph TD;
        "type": "Polygon",
        "coordinates": [
          [
-             [23.5,53.9],
-             [32.6,52.6]
+             [-110.85,56.75],
+             [-101.75,55.45]
          ]
        ]
      }
