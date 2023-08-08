@@ -52,11 +52,11 @@
 </p>
 
 <div align="center">
-<summary>Trophy: Github TomZhang11 Trophy</summary>
+<summary>Trophy: Github Profile Trophy</summary>
 </div>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-TomZhang11-trophy"><img src="https://github-TomZhang11-trophy.vercel.app/?username=TomZhang11" alt="TomZhang" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TomZhang11" alt="TomZhang" /></a>
 </p>
 
 
