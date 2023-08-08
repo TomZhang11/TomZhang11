@@ -2,10 +2,10 @@
 
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/TomZhang11/Profile"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/TomZhang11/TomZhang11"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/TomZhang11/Profile/stargazers"><img src="https://img.shields.io/github/stars/TomZhang11/Profile.svg?logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=TomZhang11.Profile" alt="visitors"/>
+    <a href="https://github.com/TomZhang11/TomZhang11/stargazers"><img src="https://img.shields.io/github/stars/TomZhang11/TomZhang11.svg?logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=TomZhang11.TomZhang11" alt="visitors"/>
 </p>
 
 <!--   my-header-img -->
@@ -14,7 +14,7 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Tom+Zhang;+Welcome+to+My+Profile!;Over+1+year+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Tom+Zhang;+Welcome+to+My+TomZhang11!;Over+1+year+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast)](https://git.io/typing-svg)
 
 
 <!--   my-skils -->
@@ -40,7 +40,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TomZhang11"></img>
 
 <!--   grid-snake -->
-![](https://github.com/TomZhang11/Profile/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/TomZhang11/TomZhang11/blob/output/github-contribution-grid-snake.svg)
 
 <!--   skyline 
 <a href="https://skyline.github.com/TomZhang11/2022">
@@ -48,15 +48,15 @@
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="mailto:tomzhang.canada888@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/TomZhang11/Profile/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="mailto:tomzhang.canada888@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/TomZhang11/TomZhang11/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
 <div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
+<summary>Trophy: Github TomZhang11 Trophy</summary>
 </div>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TomZhang11" alt="TomZhang" /></a>
+<a href="https://github.com/ryo-ma/github-TomZhang11-trophy"><img src="https://github-TomZhang11-trophy.vercel.app/?username=TomZhang11" alt="TomZhang" /></a>
 </p>
 
 
@@ -123,18 +123,18 @@ graph TD;
 #### Thanks for visiting :heart:
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/TomZhang11/count.svg">  
+<img src="https://TomZhang11-counter.glitch.me/TomZhang11/count.svg">  
 
 counting of visitors to this page in this section started from Aug 7, 2023
 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=TomZhang11/Profile&type=Date)](https://star-history.com/#TomZhang11/Profile&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=TomZhang11/TomZhang11&type=Date)](https://star-history.com/#TomZhang11/TomZhang11&Date)
 
 
 
-### Profile Views
+### TomZhang11 Views
 counting of visitors to this page in this section started from Auguest 7, 2023
 
 ![](https://count.getloli.com/get/@TomZhang11.github.readme)
@@ -146,7 +146,7 @@ counting of visitors to this page in this section started from Auguest 7, 2023
 </p>
 
 ---
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
+  *If you liked my TomZhang11, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
 ---
 Would you ike to meet me?
 
