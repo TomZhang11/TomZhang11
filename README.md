@@ -65,15 +65,14 @@ graph TD;
     machine-learning-->Algorithms;
     machine-learning-->Deployment;
    ```
-   
- 
 
 
 
 
-
-
-
+<img src="./assets/contribution2021.png" alt="" width="auto" height="auto" />
+<img src="./assets/contribution2020.png" alt="" width="auto" height="auto" />
+<img src="./assets/contribution2019.png" alt="" width="auto" height="auto" />
+<img src="./assets/contribution2018.png" alt="" width="auto" height="auto" />
 
 
 
