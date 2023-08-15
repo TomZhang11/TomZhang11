@@ -35,7 +35,7 @@
 ![Tom's github activity graph](https://raw.githubusercontent.com/TomZhang11/TomZhang11/output/github-contribution-grid-snake.svg)
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Tom's github stats](https://github-readme-stats.vercel.app/api?username=TomZhang11&show_icons=true&theme=radical&includeallcommits=true) | ![Tom's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TomZhang11&theme=radical&layout=compact) |
+| ![Tom's github stats](https://github-readme-stats.vercel.app/api?username=TomZhang11&show_icons=true&theme=radical&include_all_commits=true) | ![Tom's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TomZhang11&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TomZhang11"></img>
 
