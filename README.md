@@ -31,8 +31,8 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-
-
+<!-- [![Tom's github activity graph]] -->
+![Tom's github activity graph](https://raw.githubusercontent.com/TomZhang11/TomZhang11/output/github-contribution-grid-snake.svg)
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![Tom's github stats](https://github-readme-stats.vercel.app/api?username=TomZhang11&show_icons=true&theme=radical&include_all_commits=true) | ![Tom's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TomZhang11&theme=radical&layout=compact) |
@@ -41,10 +41,6 @@
 
 <!--   grid-snake -->
 ![](https://github.com/TomZhang11/TomZhang11/blob/output/github-contribution-grid-snake.svg)
-
-<!--   skyline 
-<a href="https://skyline.github.com/TomZhang11/2022">
--->
 
 **📫 How to Reach me:**
 <p align="left">
