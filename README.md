@@ -40,6 +40,7 @@
 **📫 How to Reach me:**
 <p align="left">
 <a href="mailto:tomzhang.canada888@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/TomZhang11/TomZhang11/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/tom-zhang-764234287/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
 </p>
 
 <div align="center">
@@ -82,7 +83,6 @@
 
 #### Thanks for visiting :heart:
 <p align="center">
-<img src="https://profile-counter.glitch.me/TomZhang11/count.svg">
 
 counting of visitors to this page in this section started from Aug 7, 2023
 
