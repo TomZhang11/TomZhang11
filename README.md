@@ -3,7 +3,7 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/TomZhang11/TomZhang11"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.14-FF1493.svg"></a>
     <a href="https://github.com/TomZhang11/TomZhang11/stargazers"><img src="https://img.shields.io/github/stars/TomZhang11/TomZhang11.svg?logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=TomZhang11.TomZhang11" alt="visitors"/>
 </p>
@@ -31,8 +31,6 @@
 | .                                                                                                                   | .                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | ![Tom's github stats](https://github-readme-stats.vercel.app/api?username=TomZhang11&show_icons=true&theme=radical) | ![Tom's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TomZhang11&theme=radical&layout=compact) |
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TomZhang11"></img>
 
 <!--   grid-snake -->
 ![](https://github.com/TomZhang11/TomZhang11/blob/output/github-contribution-grid-snake.svg)
