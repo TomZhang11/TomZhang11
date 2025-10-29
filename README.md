@@ -32,8 +32,6 @@
 | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | ![Tom's github stats](https://github-readme-stats.vercel.app/api?username=TomZhang11&show_icons=true&theme=radical) | ![Tom's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TomZhang11&theme=radical&layout=compact) |
 
-<!--   grid-snake -->
-![](https://github.com/TomZhang11/TomZhang11/blob/output/github-contribution-grid-snake.svg)
 
 **📫 How to Reach me:**
 <p align="left">
