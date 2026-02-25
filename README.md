@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://github.com/TomZhang11/TomZhang11"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.14-FF1493.svg"></a>
-    <a href="https://github.com/TomZhang11/TomZhang11/stargazers"><img src="https://img.shields.io/github/stars/TomZhang11/TomZhang11.svg?logo=github"></a>
+    <a href="https://github.com/TomZhang11/TomZhang11/stargazers"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=TomZhang11.TomZhang11" alt="visitors"/>
 </p>
 
@@ -13,7 +13,7 @@
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 <!--   my-ticker -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Tom+Zhang;+Welcome+to+My+Profile!;Over+1+year+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Tom+Zhang;+Welcome+to+My+Profile!;Over+5+year+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast)](https://git.io/typing-svg)
 
 <!--   my-skils -->
 | Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -28,9 +28,7 @@
 ### 📈 GitHub Activity Graph:
 <!-- [![Tom's github activity graph]] -->
 ![Tom's github activity graph](https://raw.githubusercontent.com/TomZhang11/TomZhang11/output/github-contribution-grid-snake.svg)
-| .                                                                                                                   | .                                                                                                                             |
-| ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| ![Tom's github stats](https://github-readme-stats.vercel.app/api?username=TomZhang11&show_icons=true&theme=radical) | ![Tom's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TomZhang11&theme=radical&layout=compact) |
+
 
 
 **📫 How to Reach me:**
@@ -39,13 +37,9 @@
 <a href="https://www.linkedin.com/in/tom-zhang-764234287/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
 </p>
 
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
 
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TomZhang11" alt="TomZhang" /></a>
-</p>
+
+
 
 <img src="./assets/contribution2021.png" alt="" width="auto" height="auto" />
 <img src="./assets/contribution2020.png" alt="" width="auto" height="auto" />
@@ -82,8 +76,7 @@
 
 counting of visitors to this page in this section started from Aug 7, 2023
 
-## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=TomZhang11/TomZhang11&type=Date)](https://star-history.com/#TomZhang11/TomZhang11&Date)
+
 
 ### Profile Views
 counting of visitors to this page in this section started from Auguest 7, 2023
