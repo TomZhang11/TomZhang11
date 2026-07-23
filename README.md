@@ -1,4 +1,10 @@
 <!--   my-icons -->
+
+- wrote a [search algorithm](https://github.com/TomZhang11/MinesweeperAI) that solves Minesweeper perfectly in grade 11
+- AI agent workflow config enthusiast
+- currently reading [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens)
+- working on AI Chat feature for clinicians at [Cortico](https://cortico.health/)
+
 <p align="center">
     <a href="https://github.com/TomZhang11/TomZhang11"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.14-FF1493.svg"></a>
@@ -20,11 +26,6 @@
 <a href="https://www.linkedin.com/in/tom-zhang-764234287/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
 <a href="https://x.com/zhang_tom12103"><img align="center" src="https://raw.githubusercontent.com/TomZhang11/TomZhang11/master/assets/twitter.svg"  alt="Twitter" height="30" width="30" ></img></a>
 </p>
-
-<img src="./assets/contribution2021.png" alt="" width="auto" height="auto" />
-<img src="./assets/contribution2020.png" alt="" width="auto" height="auto" />
-<img src="./assets/contribution2019.png" alt="" width="auto" height="auto" />
-<img src="./assets/contribution2018.png" alt="" width="auto" height="auto" />
 
 <!-- Canada - My Home-->
  ```geojson
